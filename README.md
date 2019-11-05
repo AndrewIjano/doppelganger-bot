@@ -18,6 +18,6 @@ api_hash = [your api_hash]
 phone = [your phone number with + country code]
 username = [your telegram username]
 ```
-- Download all the depencies
+- Download all the dependencies
 - Change the `CHAT_IN_1`, `CHAT_IN_2` and `CHAT_OUT` files to your chat IDs
 - Run `python3 telegram_history.py`
